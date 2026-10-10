@@ -1,0 +1,16 @@
+{
+  "name": "cwr-afk-bot",
+  "version": "1.0.0",
+  "description": "Minecraft AFK Bot for CwR",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mineflayer": "^4.20.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
